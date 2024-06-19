@@ -18,7 +18,7 @@ The platform is designed to be user-friendly, secure, and scalable, making it su
 
 Key Features of Miracuves Netmeds Clone  
 
-href="https://miracuves.com/product/pharmeasy-clone//">Netmeds Clone</a> offers a range of features to create a seamless and efficient online pharmacy. These features make it easy for users to find and order medicines quickly. Below are the key features that make this platform unique and user-friendly.  
+<a href="https://miracuves.com/product/pharmeasy-clone//">Netmeds Clone</a> offers a range of features to create a seamless and efficient online pharmacy. These features make it easy for users to find and order medicines quickly. Below are the key features that make this platform unique and user-friendly.  
 
 1. User Registration and Profiles: Users can easily register on the platform and create their profiles. This feature allows for storing personal information, medical history, and prescription details.  
 
@@ -96,7 +96,7 @@ Miracuves Solutions is dedicated to providing top-notch technology solutions, en
 
 FAQs  
 
-What is ahref="https://miracuves.com/solutions/netmeds-clone/">Netmeds Clone</a>?   
+What is a <a href="https://miracuves.com/solutions/netmeds-clone/">Netmeds Clone</a>?   
 
 A Netmeds Clone is a ready-made software solution that replicates the functionality of the Netmeds online pharmacy platform, allowing businesses to launch their own online pharmacy quickly and efficiently.  
 
@@ -108,7 +108,7 @@ Is the Netmeds Clone customizable?
 
 Yes, the Miracuves Netmeds Clone is highly customizable. Businesses can tailor the platform to their specific needs and branding requirements.  
 
-Hope you will like this content. For more information you may visit - href="https://miracuves.com//">Miracuves</a>. 
+Hope you will like this content. For more information you may visit - <a href="https://miracuves.com//">Miracuves</a>. 
 
 Dont hesitate to contact Us -  
 
